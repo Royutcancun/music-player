@@ -17,31 +17,31 @@ const songs = [
         path: 'assets/01_Tripping_Billies.mp3',
         displayName: 'Tripping Billies',
         cover: 'assets/woodstock99.jpg',
-        artist: 'Dave Mathews Band'
+        artist: 'Dave Mathews Band',
     },
     {
         path: 'assets/02_Bombos_Y_Tarolas.mp3',
         displayName: 'Bombos y Tarolas',
         cover: 'assets/Cartel_De_Santa _Me_Atizo_Macizo.jpg',
-        artist: 'Cartel de Santa'
+        artist: 'Cartel de Santa',
     },
     {
         path: 'assets/05_Self_Care.mp3',
         displayName: 'Self Care',
         cover: 'assets/swimming_macMiller.jpg',
-        artist: 'Mac Miller'
+        artist: 'Mac Miller',
     },
     {
         path: 'assets/05_You.mp3',
         displayName: 'You',
         cover: 'assets/ll&vr_you.jpg',
-        artist: 'Larry Lovestein & The Velvet Revival'
+        artist: 'Larry Lovestein & The Velvet Revival',
     },
     {
         path: 'assets/13_Esto_es_lo_que_ hay.mp3',
         displayName: 'Esto es lo que hay',
         cover: 'assets/En_una_noche_tan_linda_como_esta.jpg',
-        artist: 'Los Amigos Invisibles'
+        artist: 'Los Amigos Invisibles',
     }
 ];
 
